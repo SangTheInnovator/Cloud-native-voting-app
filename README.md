@@ -28,9 +28,9 @@ By using Kubernetes and an amount of its resources, the application can deploy a
 
 ## Steps for Project:
 
-### Installing Kubectl and AWS CLI
-
 ### Launch EC2 Instance
+
+### Installing Kubectl and AWS CLI
 
 ### EKS Cluster Setup
 
